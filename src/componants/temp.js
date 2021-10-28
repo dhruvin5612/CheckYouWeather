@@ -65,7 +65,7 @@ const Temp = () => {
 
     return (
         <>
-            <div className="wrap">
+            <div className="wrap" style={{marginTop:"80px"}}>
                 <div className="search">
                     <input
                         type="search"
